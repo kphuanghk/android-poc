@@ -15,7 +15,8 @@
         android:text="@string/hello_world"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_green_light"/>
 
     <LinearLayout
             android:id="@+id/fragment_container"
@@ -30,8 +31,9 @@
             android:layout_height="wrap_content"
             android:text="New Button"
             android:id="@+id/button"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"/>
+            android:layout_alignBottom="@+id/touch_text_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="12dp"/>
 
     <ProgressBar
             style="?android:attr/progressBarStyleHorizontal"
@@ -43,6 +45,14 @@
             android:layout_alignLeft="@+id/fragment_container"
             android:layout_alignParentRight="true"
             />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Fragment Animation"
+            android:id="@+id/button2"
+            android:layout_above="@+id/button"
+            android:layout_centerHorizontal="true"/>
     <!-- android:minHeight, maxHeight doesn't work for ProgressBar -->
 
 </RelativeLayout>

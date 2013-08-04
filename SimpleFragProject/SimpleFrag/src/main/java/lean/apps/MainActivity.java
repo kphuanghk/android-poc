@@ -1,18 +1,14 @@
 package lean.apps;
 
-import android.app.Fragment;
-import android.os.Bundle;
-import android.app.Activity;
+import android.os.*;
+import android.app.*;
 import android.util.Log;
-import android.view.GestureDetector;
-import android.view.Menu;
-import android.view.MotionEvent;
-import android.view.View;
-import android.widget.Button;
-import android.widget.ProgressBar;
-import android.widget.TextView;
-import android.widget.Toast;
+import android.view.*;
+import android.widget.*;
 
+/**
+ *
+ */
 public class MainActivity extends Activity
         implements Button.OnClickListener, View.OnTouchListener, GestureDetector.OnGestureListener,
         GestureDetector.OnDoubleTapListener {
@@ -20,6 +16,8 @@ public class MainActivity extends Activity
     private static final String TAG = "MainActivity";
 
     private static GestureDetector gsDector;
+
+    private boolean mLongPressed; //default false
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -81,6 +79,14 @@ public class MainActivity extends Activity
     public boolean onTouch(View v, MotionEvent event) {
         //Log.i(TAG, "View " + v.toString() + ", event = " + event.toString());
         //Toast.makeText(this, "View " + v.toString() + ", event = " + event.toString(), Toast.LENGTH_LONG).show();
+        switch (event.getAction()) {
+            case MotionEvent.ACTION_UP:
+                mLongPressed = false;
+            case MotionEvent.ACTION_MOVE:
+                Log.i(TAG, "Long Pressed = " + mLongPressed + ", Y =  " + event.getY());
+            default:
+                ;
+        }
         return gsDector.onTouchEvent(event);
     }
 
@@ -126,6 +132,7 @@ public class MainActivity extends Activity
     @Override
     public void onLongPress(MotionEvent e) {
         Log.i(TAG, "OnLongPress, Event = " + e.toString());
+        mLongPressed = true;
         Toast.makeText(this, "OnLongPress, Event = " + e.toString(), Toast.LENGTH_LONG).show();
     }
 
