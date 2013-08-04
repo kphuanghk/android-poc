@@ -32,5 +32,17 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"/>
 
+    <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBar"
+            android:layout_above="@+id/button"
+            android:layout_marginBottom="41dp"
+            android:layout_alignLeft="@+id/fragment_container"
+            android:layout_alignParentRight="true"
+            android:minHeight="40dip"
+            android:maxHeight="40dip"/>
+
 </RelativeLayout>
 <!-- From: file:/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/activity_main.xml -->

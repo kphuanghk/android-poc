@@ -92,13 +92,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="activity_main.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/res/layout/activity_main.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="-14.5" vertical-offset="188" max-vertical-offset="738">
+            <state line="44" column="66" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.79330707" vertical-offset="257" max-vertical-offset="795">
               <folding>
                 <element signature="e#605#626#0" expanded="true" />
                 <element signature="e#910#924#0" expanded="true" />
@@ -110,16 +110,20 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="774">
-              <folding />
+            <state line="25" column="49" selection-start="879" selection-end="879" vertical-scroll-proportion="-180.0" vertical-offset="15" max-vertical-offset="975">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#732#1175#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleFragment.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SimpleFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="3" selection-start="197" selection-end="197" vertical-scroll-proportion="0.37860084" vertical-offset="70" max-vertical-offset="648">
+            <state line="28" column="5" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="648">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,12 +186,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/SimpleFrag/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/res/layout/simple_fragment.xml" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/SimpleFragment.java" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/MyListFragment.java" />
-        <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java" />
+        <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java" />
+        <option value="$PROJECT_DIR$/SimpleFrag/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -376,16 +380,20 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0019589d292eae" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="WXG101" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0019589d292eae" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Android Application.SimpleFrag">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -495,6 +503,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a302d3ae-ca13-4a42-950f-b9f7d801e247" name="Default" comment="" />
@@ -519,14 +544,14 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.55189455" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55189455" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961832" sideWeight="0.44810542" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.06919275" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -542,7 +567,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961832" sideWeight="0.44810542" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24961832" sideWeight="0.44810542" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -622,13 +647,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="774">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/res/layout/simple_fragment.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -641,24 +659,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="5" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="648">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="49" selection-start="879" selection-end="879" vertical-scroll-proportion="-180.0" vertical-offset="15" max-vertical-offset="975">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#732#1175#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/sdk/platforms/android-18/data/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="520" column="20" selection-start="28556" selection-end="28556" vertical-scroll-proportion="0.33208954" vertical-offset="7622" max-vertical-offset="89175">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="-14.5" vertical-offset="188" max-vertical-offset="738">
+        <state line="44" column="66" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.79330707" vertical-offset="257" max-vertical-offset="795">
           <folding>
             <element signature="e#605#626#0" expanded="true" />
             <element signature="e#910#924#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="197" selection-end="197" vertical-scroll-proportion="0.37860084" vertical-offset="70" max-vertical-offset="648">
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

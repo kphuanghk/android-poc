@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ProgressBar;
 
 public class MainActivity extends Activity implements Button.OnClickListener {
 
@@ -17,7 +18,22 @@ public class MainActivity extends Activity implements Button.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button b = (Button) findViewById(R.id.button);
+        final ProgressBar pb = (ProgressBar) findViewById(R.id.progressBar);
         b.setOnClickListener(this);
+        new Thread(new Runnable() {
+            public void run() {
+                while (pb.getProgress() < 100) {
+                    //mProgressStatus = doWork();
+                    try {
+                        Thread.sleep(500);
+                    } catch (InterruptedException e) {
+                        Log.i(TAG, e.getMessage());
+                    }
+                    pb.setProgress(pb.getProgress()+1);
+                }
+            }
+        }).start();
+
     }
 
 
