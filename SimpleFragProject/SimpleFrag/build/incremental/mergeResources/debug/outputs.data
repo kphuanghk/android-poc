@@ -1,7 +1,7 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1375595905000 1954 79275cff25810034d548f5b1c0a1c804e66e8301 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/layout/activity_main.xml
+1375602465000 2024 aef81aaaf47471a4942ecb5ed17b8e700ff943e0 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/layout/activity_main.xml
 1375578804000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1375578804000 372 1a0cb0c4a2e529461903e43d72e9f4db2f415a80 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/menu/main.xml
 1375580667000 650 ebe084412cc2a35a246c33da74befd5e446fd461 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/layout/simple_fragment.xml
