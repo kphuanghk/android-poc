@@ -98,10 +98,10 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="14" column="42" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1152">
+            <state line="15" column="42" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="1152">
               <folding>
-                <element signature="e#667#688#0" expanded="true" />
-                <element signature="e#1033#1047#0" expanded="true" />
+                <element signature="e#598#619#0" expanded="true" />
+                <element signature="e#892#906#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,11 +110,11 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="9" selection-start="2922" selection-end="2922" vertical-scroll-proportion="0.546875" vertical-offset="1269" max-vertical-offset="2754">
+            <state line="97" column="33" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.4664179" vertical-offset="1496" max-vertical-offset="3636">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1183#1628#0" expanded="true" />
-                <element signature="e#1617#1618#0" expanded="true" />
+                <element signature="e#1356#1801#0" expanded="true" />
+                <element signature="e#1790#1791#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,7 +132,7 @@
       <file leaf-file-name="SimpleFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="5" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="648">
+            <state line="17" column="43" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="648">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,10 +197,10 @@
       <list>
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/SimpleFragment.java" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/MyListFragment.java" />
-        <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/ParentTextView.java" />
-        <option value="$PROJECT_DIR$/SimpleFrag/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/res/layout/simple_fragment.xml" />
+        <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java" />
+        <option value="$PROJECT_DIR$/SimpleFrag/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java" />
       </list>
     </option>
@@ -389,11 +389,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="566" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="283" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0019589d292eae" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
@@ -559,14 +561,14 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8484349" sideWeight="0.6259542" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8863262" sideWeight="0.6259542" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.120610684" sideWeight="0.26853377" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6359143" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021416804" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -594,7 +596,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.8484349" sideWeight="0.6259542" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.8863262" sideWeight="0.6259542" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -669,9 +671,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/res/layout/simple_fragment.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding>
+            <element signature="e#438#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/SimpleFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="648">
+        <state line="17" column="43" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="648">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -690,33 +704,21 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
-        <state line="14" column="42" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="972">
+        <state line="15" column="42" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="1152">
           <folding>
-            <element signature="e#667#688#0" expanded="true" />
-            <element signature="e#1033#1047#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/res/layout/simple_fragment.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding>
-            <element signature="e#438#463#0" expanded="true" />
+            <element signature="e#598#619#0" expanded="true" />
+            <element signature="e#892#906#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleFrag/src/main/java/lean/apps/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="9" selection-start="2922" selection-end="2922" vertical-scroll-proportion="0.546875" vertical-offset="1269" max-vertical-offset="2754">
+        <state line="97" column="33" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.4664179" vertical-offset="1496" max-vertical-offset="3636">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1183#1628#0" expanded="true" />
-            <element signature="e#1617#1618#0" expanded="true" />
+            <element signature="e#1356#1801#0" expanded="true" />
+            <element signature="e#1790#1791#0" expanded="true" />
           </folding>
         </state>
       </provider>

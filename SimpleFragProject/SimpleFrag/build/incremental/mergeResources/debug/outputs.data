@@ -1,7 +1,7 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1375613223000 2442 4dbfa5dc60ceafa99ff679936a3be9ad27599cf6 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/layout/activity_main.xml
+1375629192000 2301 3a4bafa0c4762993a3a6fbe8141874ea6ff9ae3b /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/layout/activity_main.xml
 1375578804000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1375578804000 372 1a0cb0c4a2e529461903e43d72e9f4db2f415a80 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/menu/main.xml
 1375613223000 722 15cca3fcb1ee631871e0bf5886b2d809d7a4b41b /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/layout/simple_fragment.xml
@@ -9,6 +9,6 @@
 1375578804000 358 d84c81e45493c1a8d7cb0fe90cc7dd3bfb5cba3a /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/values-v14/values.xml
 1375578804000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/drawable-hdpi/ic_launcher.png
 1375578804000 344 b3b558a0e573ba5f5e13e612411b5e03fddee03b /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/values-v11/values.xml
-1375580667000 1251 85dc2c2d6bbb2c253380564231ec02786bd017aa /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/values/values.xml
+1375628648000 1440 0e911dd2a4692b67f80e74eea5ba8a059f0dda16 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/values/values.xml
 1375578804000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
 1375578804000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/all/debug/drawable-mdpi/ic_launcher.png

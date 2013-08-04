@@ -108,6 +108,13 @@
                 path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/simple_fragment.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="main_root_relative_layout"
+                    type="id"/>
+            </file>
         </source>
         <source path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/rs/debug" />
     </dataSet>

@@ -21,8 +21,8 @@ public class SimpleFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        Log.i(TAG, "onCreateView");
-        View v = inflater.inflate(R.layout.simple_fragment, null);
+        Log.i(TAG, "onCreateView " + container.getId());
+        View v = inflater.inflate(R.layout.simple_fragment, container, false);
         Log.i(TAG, "Done onCreateView");
         return v;
       //  return super.onCreateView(inflater, container, savedInstanceState);
