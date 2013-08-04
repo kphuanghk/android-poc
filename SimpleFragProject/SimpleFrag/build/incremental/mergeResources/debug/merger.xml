@@ -39,6 +39,8 @@
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
+                <string name="str_tv_fragment" >Message
+                </string>
             </file>
             <file
                 path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/dimens.xml"
@@ -101,6 +103,11 @@
                 path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
+            <file
+                name="simple_fragment"
+                path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/simple_fragment.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/rs/debug" />
     </dataSet>

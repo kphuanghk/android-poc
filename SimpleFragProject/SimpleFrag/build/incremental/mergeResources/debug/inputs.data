@@ -1,16 +1,17 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1375578782000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/menu/main.xml
 1375578782000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/drawable-xxhdpi/ic_launcher.png
+1375578782000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/menu/main.xml
 1375578782000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/drawable-xhdpi/ic_launcher.png
-1375578782000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values-v14/styles.xml
+1375580199000 509 1f9ee548569d906f32982a23a89febba7e69e31d /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/simple_fragment.xml
 1375578782000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/styles.xml
-1375578782000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values-sw720dp-land/dimens.xml
 1375578782000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values-v11/styles.xml
-1375578782000 221 1f4f74d45ef0acf55fbc53f701aac89f16c4e304 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/strings.xml
+1375580188000 273 6c5e8ba4f105b6c55632cb292c1521f549e3b7a3 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/strings.xml
 1375578782000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/drawable-hdpi/ic_launcher.png
 1375578782000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/drawable-mdpi/ic_launcher.png
+1375578782000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values-v14/styles.xml
+1375578782000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values-sw720dp-land/dimens.xml
 1375578782000 181 84de2797380184d8b39af6f829afb092fb956173 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values-sw600dp/dimens.xml
-1375578782000 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/activity_main.xml
 1375578782000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/dimens.xml
+1375580054000 1311 f483c6faf452a3037b3d7b782cb32230462d0c02 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/activity_main.xml

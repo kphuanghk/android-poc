@@ -4,5 +4,6 @@
     <string name="app_name">Simple Frag</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="str_tv_fragment">Message</string>
 
 </resources>

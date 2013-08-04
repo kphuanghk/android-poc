@@ -1,15 +1,16 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1375578805000 376 7f8c195399686d25b7e9d5b8fcf987f5b2d5fc78 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$layout.class
+1375580690000 484 ab408538a76dbb84973b5f20eac75a98745a5db0 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$string.class
+1375580690000 404 b9c23b48b33fb3b2983fda36b35193873388776a /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$style.class
+1375580690000 361 8d51cd6e8cf9e85cd188ea3d1895dd2f0e2ccf4d /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$menu.class
+1375580690000 438 6fcfaa18a296fa2c8fa47949758760ff64c1d919 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$id.class
+1375580690000 587 2c85f16fa0241fa636492704fff702c0ee25936a /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R.class
 1375578805000 313 151f6b18f16393815921093309920bcacfd6cd6a /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$attr.class
-1375578805000 445 8574217777f3335b23c5bf9161749b8549699c7c /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$string.class
-1375578805000 361 76d8b4238bd9228709149f6562ece43a017078f2 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$menu.class
-1375578805000 404 0bf3fbd8582abd37d5bfdb573e884400aa378ac1 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$style.class
-1375578805000 799 72fde668fb0f3a2288822e4b1dc7ee02152877bb /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/MainActivity.class
+1375580690000 415 68b6e1b626c7e4bf32aa1b45581ae69800c29690 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$layout.class
+1375580690000 2159 9624e2e4cd13f1a2b242b577b545ef8a3f6281c6 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/MainActivity.class
 1375578805000 380 0ff2970b62849d0f7dbe16d675f40e1540d5a266 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$drawable.class
 1375578805000 327 0fdbd1513a80c1c4a8a9ecc4e51e0820517843ac /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/BuildConfig.class
+1375583404000 1138 bd4c33140035427055e185e1f44e172a783eeecf /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/SimpleFragment.class
 1375578805000 434 cd1efddc25c786b4dc79088f297ba427f1f979e5 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$dimen.class
-1375578805000 366 1c37d9d5e44eea53956cb7c1027b131b62e9c704 /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R$id.class
 1375545096000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/kphuanghk/Apps/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
-1375578805000 587 21d143176318f15b8757e551da2daf237a521e7f /home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/classes/debug/lean/apps/R.class
