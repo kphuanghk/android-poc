@@ -35,6 +35,8 @@
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
+                <string name="title_activity_product" >Products Info
+                </string>
                 <string name="app_name" >Simple Frag
                 </string>
                 <string name="hello_world" >Hello world!
@@ -115,6 +117,16 @@
                     name="main_root_relative_layout"
                     type="id"/>
             </file>
+            <file
+                name="product"
+                path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/menu/product.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_product"
+                path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/layout/activity_product.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/build/res/rs/debug" />
     </dataSet>

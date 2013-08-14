@@ -1,5 +1,6 @@
 package lean.apps;
 
+import android.content.Intent;
 import android.os.*;
 import android.app.*;
 import android.util.Log;
@@ -119,7 +120,7 @@ public class MainActivity extends Activity
             case MotionEvent.ACTION_UP:
                 mLongPressed = false;
             case MotionEvent.ACTION_MOVE:
-                Log.i(TAG, "Long Pressed = " + mLongPressed + ", Y =  " + event.getY());
+               //Log.i(TAG, "Long Pressed = " + mLongPressed + ", Y =  " + event.getY());
             default:
                 ;
         }
@@ -175,15 +176,27 @@ public class MainActivity extends Activity
     @Override
     public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
         Log.i(TAG, "OnFling, vX = " + velocityX + " , vY = " + velocityY);
-        Log.i(TAG, "OnFling, e1 " + e1.toString());
-        Log.i(TAG, "OnFling, e2 " + e2.toString());
+        //Log.i(TAG, "OnFling, e1 " + e1.toString());
+        //Log.i(TAG, "OnFling, e2 " + e2.toString());
 
         Fragment f = getFragmentManager().findFragmentByTag("MyList");
         Log.i(TAG, "Animation is executing..." + f);
 
+        float x = e1.getX() - e2.getX();
+        float y = e1.getY() - e2.getY();
+
+
+        if(Math.abs(x) > 300){
+            //Launch Product Activity
+            Log.i(TAG, "Launching new Activity.., x = " + x);
+            Intent myIntent = new Intent(MainActivity.this, ProductActivity.class);
+            myIntent.putExtra("key", "No Value"); //Optional parameters
+            MainActivity.this.startActivity(myIntent);
+        }else{
+            Log.i(TAG, "Fling less than 200 " + x + " do not launch");
+        }
+
         if(f != null){
-            float x = e1.getX() - e2.getX();
-            float y = e1.getY() - e2.getY();
             f.getView().animate().translationY(y).withLayer();
             f.getView().animate().translationX(x).withLayer();
             //f.getView().animate().alpha(random.nextFloat()).withLayer();

@@ -11,6 +11,7 @@
     <string name="app_name">Simple Frag</string>
     <string name="hello_world">Hello world!</string>
     <string name="str_tv_fragment">Message</string>
+    <string name="title_activity_product">Products Info</string>
     <!-- From: file:/home/kphuanghk/AndroidStudioProjects/SimpleFragment/SimpleFragProject/SimpleFrag/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
